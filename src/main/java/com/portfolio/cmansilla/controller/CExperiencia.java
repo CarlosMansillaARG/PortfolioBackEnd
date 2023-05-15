@@ -4,7 +4,7 @@ package com.portfolio.cmansilla.controller;
 import com.portfolio.cmansilla.dto.dtoExperiencia;
 import com.portfolio.cmansilla.entity.Experiencia;
 import com.portfolio.cmansilla.security.controller.Mensaje;
-import com.portfolio.cmansilla.security.service.SExperiencia;
+import com.portfolio.cmansilla.service.SExperiencia;
 import java.util.List;
 import org.apache.commons.lang3.StringUtils;
 import org.springframework.beans.factory.annotation.Autowired;

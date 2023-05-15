@@ -1,6 +1,7 @@
 com\portfolio\cmansilla\repository\Rhys.class
 com\portfolio\cmansilla\dto\dtoHys.class
 com\portfolio\cmansilla\controller\CEducacion.class
+com\portfolio\cmansilla\service\SExperiencia.class
 com\portfolio\cmansilla\controller\PersonaController.class
 com\portfolio\cmansilla\entity\Persona.class
 com\portfolio\cmansilla\security\service\RolService.class
@@ -9,6 +10,7 @@ com\portfolio\cmansilla\security\jwt\JwtProvider.class
 com\portfolio\cmansilla\security\repository\iRolRepository.class
 com\portfolio\cmansilla\security\entity\Usuario.class
 com\portfolio\cmansilla\service\Shys.class
+com\portfolio\cmansilla\repository\RProyecto.class
 com\portfolio\cmansilla\service\Seducacion.class
 com\portfolio\cmansilla\dto\dtoEducacion.class
 com\portfolio\cmansilla\CmansillaApplication.class
@@ -17,11 +19,13 @@ com\portfolio\cmansilla\security\enums\RolNombre.class
 com\portfolio\cmansilla\security\jwt\JwtEntryPoint.class
 com\portfolio\cmansilla\security\service\UserDetailsImpl.class
 com\portfolio\cmansilla\entity\hys.class
-com\portfolio\cmansilla\security\service\SExperiencia.class
+com\portfolio\cmansilla\entity\Proyecto.class
+com\portfolio\cmansilla\dto\dtoProyecto.class
 com\portfolio\cmansilla\service\ImpPersonaService.class
 com\portfolio\cmansilla\entity\Educacion.class
 com\portfolio\cmansilla\dto\dtoExperiencia.class
 com\portfolio\cmansilla\dto\dtoPersona.class
+com\portfolio\cmansilla\service\SProyecto.class
 com\portfolio\cmansilla\security\repository\iUsuarioRepository.class
 com\portfolio\cmansilla\security\dto\LoginUsuario.class
 com\portfolio\cmansilla\controller\CExperiencia.class
@@ -32,6 +36,7 @@ com\portfolio\cmansilla\entity\Experiencia.class
 com\portfolio\cmansilla\security\entity\Rol.class
 com\portfolio\cmansilla\controller\CHys.class
 com\portfolio\cmansilla\security\MainSecurity.class
+com\portfolio\cmansilla\controller\CProyecto.class
 com\portfolio\cmansilla\repository\RExperiencia.class
 com\portfolio\cmansilla\security\controller\AuthController.class
 com\portfolio\cmansilla\security\dto\NuevoUsuario.class

@@ -1,13 +1,16 @@
 D:\Argentina Programa\Yo Programo\Portfolio\PortfolioBackEnd\src\main\java\com\portfolio\cmansilla\security\jwt\JwtProvider.java
 D:\Argentina Programa\Yo Programo\Portfolio\PortfolioBackEnd\src\main\java\com\portfolio\cmansilla\security\MainSecurity.java
-D:\Argentina Programa\Yo Programo\Portfolio\PortfolioBackEnd\src\main\java\com\portfolio\cmansilla\security\service\SExperiencia.java
 D:\Argentina Programa\Yo Programo\Portfolio\PortfolioBackEnd\src\main\java\com\portfolio\cmansilla\security\dto\LoginUsuario.java
 D:\Argentina Programa\Yo Programo\Portfolio\PortfolioBackEnd\src\main\java\com\portfolio\cmansilla\security\dto\NuevoUsuario.java
 D:\Argentina Programa\Yo Programo\Portfolio\PortfolioBackEnd\src\main\java\com\portfolio\cmansilla\controller\CHys.java
 D:\Argentina Programa\Yo Programo\Portfolio\PortfolioBackEnd\src\main\java\com\portfolio\cmansilla\security\repository\iRolRepository.java
 D:\Argentina Programa\Yo Programo\Portfolio\PortfolioBackEnd\src\main\java\com\portfolio\cmansilla\controller\CEducacion.java
+D:\Argentina Programa\Yo Programo\Portfolio\PortfolioBackEnd\src\main\java\com\portfolio\cmansilla\repository\RProyecto.java
+D:\Argentina Programa\Yo Programo\Portfolio\PortfolioBackEnd\src\main\java\com\portfolio\cmansilla\controller\CProyecto.java
+D:\Argentina Programa\Yo Programo\Portfolio\PortfolioBackEnd\src\main\java\com\portfolio\cmansilla\service\SProyecto.java
 D:\Argentina Programa\Yo Programo\Portfolio\PortfolioBackEnd\src\main\java\com\portfolio\cmansilla\security\jwt\JwtTokenFilter.java
 D:\Argentina Programa\Yo Programo\Portfolio\PortfolioBackEnd\src\main\java\com\portfolio\cmansilla\dto\dtoPersona.java
+D:\Argentina Programa\Yo Programo\Portfolio\PortfolioBackEnd\src\main\java\com\portfolio\cmansilla\entity\Proyecto.java
 D:\Argentina Programa\Yo Programo\Portfolio\PortfolioBackEnd\src\main\java\com\portfolio\cmansilla\dto\dtoHys.java
 D:\Argentina Programa\Yo Programo\Portfolio\PortfolioBackEnd\src\main\java\com\portfolio\cmansilla\security\controller\AuthController.java
 D:\Argentina Programa\Yo Programo\Portfolio\PortfolioBackEnd\src\main\java\com\portfolio\cmansilla\dto\dtoExperiencia.java
@@ -20,6 +23,7 @@ D:\Argentina Programa\Yo Programo\Portfolio\PortfolioBackEnd\src\main\java\com\p
 D:\Argentina Programa\Yo Programo\Portfolio\PortfolioBackEnd\src\main\java\com\portfolio\cmansilla\security\service\UserDetailsImpl.java
 D:\Argentina Programa\Yo Programo\Portfolio\PortfolioBackEnd\src\main\java\com\portfolio\cmansilla\entity\Persona.java
 D:\Argentina Programa\Yo Programo\Portfolio\PortfolioBackEnd\src\main\java\com\portfolio\cmansilla\security\jwt\JwtEntryPoint.java
+D:\Argentina Programa\Yo Programo\Portfolio\PortfolioBackEnd\src\main\java\com\portfolio\cmansilla\dto\dtoProyecto.java
 D:\Argentina Programa\Yo Programo\Portfolio\PortfolioBackEnd\src\main\java\com\portfolio\cmansilla\entity\hys.java
 D:\Argentina Programa\Yo Programo\Portfolio\PortfolioBackEnd\src\main\java\com\portfolio\cmansilla\entity\Educacion.java
 D:\Argentina Programa\Yo Programo\Portfolio\PortfolioBackEnd\src\main\java\com\portfolio\cmansilla\security\service\UsuarioService.java
@@ -30,6 +34,7 @@ D:\Argentina Programa\Yo Programo\Portfolio\PortfolioBackEnd\src\main\java\com\p
 D:\Argentina Programa\Yo Programo\Portfolio\PortfolioBackEnd\src\main\java\com\portfolio\cmansilla\controller\PersonaController.java
 D:\Argentina Programa\Yo Programo\Portfolio\PortfolioBackEnd\src\main\java\com\portfolio\cmansilla\repository\REducacion.java
 D:\Argentina Programa\Yo Programo\Portfolio\PortfolioBackEnd\src\main\java\com\portfolio\cmansilla\repository\RExperiencia.java
+D:\Argentina Programa\Yo Programo\Portfolio\PortfolioBackEnd\src\main\java\com\portfolio\cmansilla\service\SExperiencia.java
 D:\Argentina Programa\Yo Programo\Portfolio\PortfolioBackEnd\src\main\java\com\portfolio\cmansilla\security\entity\Usuario.java
 D:\Argentina Programa\Yo Programo\Portfolio\PortfolioBackEnd\src\main\java\com\portfolio\cmansilla\security\repository\iUsuarioRepository.java
 D:\Argentina Programa\Yo Programo\Portfolio\PortfolioBackEnd\src\main\java\com\portfolio\cmansilla\service\Seducacion.java
